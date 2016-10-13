@@ -1,0 +1,17 @@
+* Git urania draft
+  
+|-----------+-------|
+| What      | Who   |
+|-----------+-------|
+| Index     | Haun  |
+| Git radar | Haun  |
+| Commit    | Haun  |
+| Branches  | Haun  |
+| Merges    | Haun  |
+|-----------+-------|
+| Rebase    | Riehl |
+| Rebase-I  | Riehl |
+| Remotes   | Riehl |
+| Config    | Riehl |
+| Git game  | Riehl |
+|-----------+-------|

@@ -1,0 +1,9 @@
+* Aiwald
+  * Wie funktioniert eine repl?
+  * println
+  * Was ist eine Variable?
+  * types (Numbers, Booleans, Strings)
+  * if - else statement
+  * functions (add ints)
+
+  -> goto aiwald game
